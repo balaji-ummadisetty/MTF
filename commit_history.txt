@@ -1,0 +1,220 @@
+8d599d9 - balaji-ummadisetty, 2 days ago : Added
+2781132 - balaji-ummadisetty, 2 days ago : Added
+e07aaf2 - balaji-ummadisetty, 2 days ago : Added
+bd5d0c4 - balaji-ummadisetty, 4 days ago : Added
+31191af - balaji-ummadisetty, 4 days ago : Added
+c64a2c1 - balaji-ummadisetty, 4 days ago : Added
+99c2560 - balaji-ummadisetty, 4 days ago : Added
+bca7bda - balaji-ummadisetty, 4 days ago : Added
+72e07ab - balaji-ummadisetty, 9 days ago : Added
+8fb630b - balaji-ummadisetty, 9 days ago : Added
+5a4fca0 - balaji-ummadisetty, 9 days ago : Added
+2c0ee78 - balaji-ummadisetty, 13 days ago : Added
+1503a9f - balaji-ummadisetty, 13 days ago : Added
+5a33f47 - Balaji Ummadisetty, 2 weeks ago : Update main.yml
+286aa28 - balaji-ummadisetty, 2 weeks ago : Merge remote-tracking branch 'origin/Develop' into Develop  Updated
+5142d17 - balaji-ummadisetty, 2 weeks ago : Bug
+b220e06 - Balaji Ummadisetty, 2 weeks ago : Update main.yml
+385bed3 - balaji-ummadisetty, 2 weeks ago : Bug
+9f67624 - Balaji Ummadisetty, 2 weeks ago : Merge pull request #72 from balaji-ummadisetty/Tasks
+7a674cc - Balaji Ummadisetty, 2 weeks ago : Merge branch 'Develop' into Tasks
+798dc8c - Balaji Ummadisetty, 2 weeks ago : Merge pull request #74 from balaji-ummadisetty/Balaji_V26
+30c9d55 - balaji-ummadisetty, 2 weeks ago : Added
+1dff7e5 - prasad, 2 weeks ago : added exceptions for all files
+b7a268b - prasad, 3 weeks ago : changes
+f14f525 - Balaji Ummadisetty, 3 weeks ago : Merge pull request #73 from balaji-ummadisetty/Balaji_V26
+bd2a329 - balaji-ummadisetty, 3 weeks ago : Added
+69844ef - prasad, 3 weeks ago : tasks
+a98f7e6 - prasad, 3 weeks ago : text
+b70c2f9 - Balaji Ummadisetty, 3 weeks ago : Merge pull request #71 from balaji-ummadisetty/Balaji_V26
+44a4749 - balaji-ummadisetty, 3 weeks ago : Added
+924941f - Balaji Ummadisetty, 3 weeks ago : Merge pull request #70 from balaji-ummadisetty/Balaji_V26
+3c48166 - balaji-ummadisetty, 3 weeks ago : Added
+76a8c55 - Balaji Ummadisetty, 3 weeks ago : Merge pull request #69 from balaji-ummadisetty/Balaji_V25
+981fef1 - balaji-ummadisetty, 3 weeks ago : Added
+8919e28 - Balaji Ummadisetty, 3 weeks ago : Merge pull request #68 from balaji-ummadisetty/Admin_Dashboard
+965e2f2 - prasad, 3 weeks ago : Admin Dashboard completed
+cb0205c - balaji-ummadisetty, 3 weeks ago : Added
+dda83f8 - Balaji Ummadisetty, 3 weeks ago : Merge pull request #67 from balaji-ummadisetty/Modal_Payment_Style
+4d92b29 - prasad, 3 weeks ago : Modal payment responsive and dashboard styles
+ca5468c - prasad, 3 weeks ago : Merged conflicts
+60cbebc - prasad, 3 weeks ago : Merged conflicts
+2b68f06 - Balaji Ummadisetty, 3 weeks ago : Merge pull request #66 from balaji-ummadisetty/Balaji_V23
+d9ffdf9 - balaji-ummadisetty, 3 weeks ago : Added
+92f2381 - Balaji Ummadisetty, 3 weeks ago : Merge pull request #65 from balaji-ummadisetty/Balaji_V23
+c66aa19 - balaji-ummadisetty, 3 weeks ago : Added
+3213aa3 - Balaji Ummadisetty, 3 weeks ago : Merge pull request #64 from balaji-ummadisetty/Balaji_V23
+76b8256 - balaji-ummadisetty, 3 weeks ago : Added
+16f56fa - balaji-ummadisetty, 3 weeks ago : Changed Session Length
+8d0346a - prasad, 3 weeks ago : requirements
+7818987 - balaji-ummadisetty, 3 weeks ago : Added
+8f10092 - balaji-ummadisetty, 3 weeks ago : Added routes to Admin
+45f96a9 - Balaji Ummadisetty, 3 weeks ago : Merge pull request #63 from balaji-ummadisetty/balaji_V21
+79fcfee - balaji-ummadisetty, 3 weeks ago : Added
+a042586 - Balaji Ummadisetty, 4 weeks ago : Merge pull request #62 from balaji-ummadisetty/balaji_V20
+ebbfeb9 - balaji-ummadisetty, 4 weeks ago : Added
+2a80ffc - Balaji Ummadisetty, 4 weeks ago : Merge pull request #61 from balaji-ummadisetty/AllMentorProfile_Styled
+5ff3d17 - Balaji Ummadisetty, 4 weeks ago : Merge pull request #60 from balaji-ummadisetty/balaji_V19
+cc2b514 - prasad, 4 weeks ago : All Mentor Profiles _V1
+798b637 - balaji-ummadisetty, 4 weeks ago : Added
+944000d - Balaji Ummadisetty, 4 weeks ago : Update PaymentModal.jsx
+9c650f0 - Balaji Ummadisetty, 4 weeks ago : Merge pull request #59 from balaji-ummadisetty/Bugs_V1
+2c99fad - Balaji Ummadisetty, 4 weeks ago : Merge pull request #58 from balaji-ummadisetty/balaji_V18
+c660405 - balaji-ummadisetty, 4 weeks ago : Added
+de0e161 - prasad, 4 weeks ago : Blogs styled
+e16cbd5 - prasad, 4 weeks ago : Home page done
+e8edb90 - Balaji Ummadisetty, 4 weeks ago : Update index.html
+e8e3db5 - Balaji Ummadisetty, 4 weeks ago : Update main.yml
+cfdfd88 - Balaji Ummadisetty, 4 weeks ago : Update main.yml
+f070fc2 - Balaji Ummadisetty, 4 weeks ago : Update main.yml
+c2edfd7 - Balaji Ummadisetty, 4 weeks ago : Merge pull request #57 from balaji-ummadisetty/bugs
+0e105d8 - balaji-ummadisetty, 4 weeks ago : Bugs Fixed
+6fd36c6 - Balaji Ummadisetty, 4 weeks ago : Merge pull request #56 from balaji-ummadisetty/Favourites
+c29ba99 - prasad, 4 weeks ago : dashboard bugs fixed
+e87f115 - prasad, 4 weeks ago : favourites_v1
+3e97dcb - prasad, 4 weeks ago : Home Page Integration Done
+56d8fe7 - prasad, 4 weeks ago : bookings styling done
+7a52679 - Balaji Ummadisetty, 4 weeks ago : Update main.yml
+3b6e456 - Balaji Ummadisetty, 4 weeks ago : Update main.yml
+f0feeeb - Balaji Ummadisetty, 4 weeks ago : Update main.yml
+6da869b - Balaji Ummadisetty, 4 weeks ago : Update main.yml
+a2b42d2 - Balaji Ummadisetty, 4 weeks ago : Update main.yml
+37183a2 - Balaji Ummadisetty, 4 weeks ago : Update Deploy.yml
+7c878e8 - Balaji Ummadisetty, 4 weeks ago : Create main.yml
+1d1e5b8 - sashanktalakola, 4 weeks ago : Create Dockerfile
+7fe14b7 - balaji-ummadisetty, 4 weeks ago : Added Fixes
+87ba389 - Balaji Ummadisetty, 4 weeks ago : Merge pull request #54 from balaji-ummadisetty/payment_fix
+8cd53ec - balaji-ummadisetty, 4 weeks ago : Added Fixes
+1137fc1 - Balaji Ummadisetty, 4 weeks ago : Merge pull request #53 from balaji-ummadisetty/balaji_V16
+df5713c - Balaji Ummadisetty, 4 weeks ago : Merge branch 'Develop' into balaji_V16
+15ef478 - balaji-ummadisetty, 4 weeks ago : Added Develop Branch
+27df623 - Balaji Ummadisetty, 4 weeks ago : Merge pull request #51 from balaji-ummadisetty/bugs_fix
+854c1e1 - balaji-ummadisetty, 4 weeks ago : Added
+5b70bde - balaji-ummadisetty, 4 weeks ago : Added
+f9dcd1b - Balaji Ummadisetty, 4 weeks ago : Merge pull request #50 from balaji-ummadisetty/Blogs
+3b19b87 - Balaji Ummadisetty, 4 weeks ago : Merge branch 'main' into Blogs
+3823dce - Balaji Ummadisetty, 4 weeks ago : Merge pull request #49 from balaji-ummadisetty/Reviews_balaji
+8b98c97 - prasad, 4 weeks ago : blogs
+81312b8 - balaji-ummadisetty, 4 weeks ago : Added All reviews
+ec5a42e - balaji-ummadisetty, 4 weeks ago : Added
+d2a56c3 - prasad, 4 weeks ago : Mentor blogs create edit V1
+e670a11 - Balaji Ummadisetty, 5 weeks ago : Merge pull request #47 from balaji-ummadisetty/dashboard_profile
+1b91e3a - Balaji Ummadisetty, 5 weeks ago : Merge branch 'main' into dashboard_profile
+ea07e6d - prasad, 5 weeks ago : dashboard profile completed
+3fed8f8 - Balaji Ummadisetty, 5 weeks ago : Merge pull request #46 from balaji-ummadisetty/balaji_V15
+c922a44 - balaji-ummadisetty, 5 weeks ago : Added
+df67267 - balaji-ummadisetty, 5 weeks ago : Added
+9403dcc - balaji-ummadisetty, 5 weeks ago : Added
+3da69c5 - Balaji Ummadisetty, 5 weeks ago : Merge pull request #45 from balaji-ummadisetty/balaji_V13
+6679e26 - balaji-ummadisetty, 5 weeks ago : Added
+5ae0452 - prasad, 5 weeks ago : schedule time bug solved in MentorProfileView
+2a07cfc - Prasad-324, 5 weeks ago : Merge pull request #44 from balaji-ummadisetty/Balaji_V12
+abfb210 - balaji-ummadisetty, 5 weeks ago : Added Payment
+4691d38 - Balaji Ummadisetty, 5 weeks ago : Merge pull request #43 from balaji-ummadisetty/Balaji_V12
+423fd2a - balaji-ummadisetty, 5 weeks ago : Added
+89ec79c - Balaji Ummadisetty, 5 weeks ago : Merge pull request #41 from balaji-ummadisetty/Balaji_V12
+4307390 - balaji-ummadisetty, 5 weeks ago : Added
+0bad1aa - Balaji Ummadisetty, 5 weeks ago : Merge pull request #40 from balaji-ummadisetty/Balaji_V12
+568d73a - balaji-ummadisetty, 5 weeks ago : added
+ec99f3d - Balaji Ummadisetty, 5 weeks ago : Merge pull request #39 from balaji-ummadisetty/Balaji_V12
+0b1b277 - balaji-ummadisetty, 5 weeks ago : Added Api on Integration"
+8e17abc - Balaji Ummadisetty, 5 weeks ago : Merge pull request #38 from balaji-ummadisetty/balaji_V11
+72fd0dd - Balaji Ummadisetty, 5 weeks ago : Merge branch 'main' into balaji_V11
+3b3896a - Balaji Ummadisetty, 5 weeks ago : Merge pull request #37 from balaji-ummadisetty/Ask_a_question_model_card
+1fdd6ac - balaji-ummadisetty, 6 weeks ago : Added Apis
+1247f90 - prasad, 6 weeks ago : ask question modal and messages section
+b3033c9 - balaji-ummadisetty, 6 weeks ago : Model for Ask a question
+ccc8692 - Balaji Ummadisetty, 6 weeks ago : Merge pull request #36 from balaji-ummadisetty/bugs_fix_mode_prasad
+50b57a5 - Balaji Ummadisetty, 6 weeks ago : Merge branch 'main' into bugs_fix_mode_prasad
+bf8de58 - Balaji Ummadisetty, 6 weeks ago : Merge pull request #35 from balaji-ummadisetty/bugs_Balajji
+c6a25e9 - prasad, 6 weeks ago : bugs_v1
+5dd1041 - balaji-ummadisetty, 6 weeks ago : Added
+5ff6935 - balaji-ummadisetty, 6 weeks ago : Added
+e3f12f7 - Balaji Ummadisetty, 6 weeks ago : Merge pull request #34 from balaji-ummadisetty/balajiV9
+a92d5dd - balaji-ummadisetty, 6 weeks ago : Added
+c780a8b - Balaji Ummadisetty, 6 weeks ago : Merge pull request #33 from balaji-ummadisetty/about-us
+a508c13 - prasad, 6 weeks ago : about-us completed
+25073d2 - Balaji Ummadisetty, 6 weeks ago : Merge pull request #32 from balaji-ummadisetty/balajiV9
+b72c32e - balaji-ummadisetty, 6 weeks ago : Added
+cfe0293 - Balaji Ummadisetty, 6 weeks ago : Merge pull request #31 from balaji-ummadisetty/balajiV9
+acfe0fe - balaji-ummadisetty, 6 weeks ago : Added
+3ce509c - Balaji Ummadisetty, 6 weeks ago : Merge pull request #30 from balaji-ummadisetty/Account_Settings
+61a630b - balaji-ummadisetty, 6 weeks ago : Added
+abdc865 - prasad, 6 weeks ago : account settings version 1
+e6d2cca - Balaji Ummadisetty, 6 weeks ago : Merge pull request #29 from balaji-ummadisetty/balajiV8
+2119320 - balaji-ummadisetty, 7 weeks ago : changes made
+9198d6f - Balaji Ummadisetty, 7 weeks ago : Merge pull request #28 from balaji-ummadisetty/balajiV8
+98cd866 - balaji-ummadisetty, 7 weeks ago : made Chnage
+e856d92 - Balaji Ummadisetty, 7 weeks ago : Merge pull request #27 from balaji-ummadisetty/mentorprofile
+b90241d - Balaji Ummadisetty, 7 weeks ago : Merge branch 'main' into mentorprofile
+5a72b4e - Balaji Ummadisetty, 7 weeks ago : Merge pull request #26 from balaji-ummadisetty/Mentor_Profile_View
+aa03f40 - Balaji Ummadisetty, 7 weeks ago : Merge pull request #25 from balaji-ummadisetty/balajiV6
+d262a9d - prasad, 7 weeks ago : merged remote changes and Mentor profile
+d1d84f0 - prasad, 7 weeks ago : Merge branch 'Mentor_Profile_View' of github.com:balaji-ummadisetty/MentorTimeFrontend into Mentor_Profile_View
+ac3745b - prasad, 7 weeks ago : profile mentor update version 1
+64463d0 - hareeshmuddala, 7 weeks ago : mentor profile added
+9f60211 - hareeshmuddala, 7 weeks ago : profile cards and filters
+fc43f4a - balaji-ummadisetty, 7 weeks ago : Added Apis
+f746003 - Balaji Ummadisetty, 7 weeks ago : Merge pull request #24 from balaji-ummadisetty/balajiV6
+08eb79d - balaji-ummadisetty, 7 weeks ago : added
+df5e164 - Balaji Ummadisetty, 7 weeks ago : Merge pull request #22 from balaji-ummadisetty/Mentor_Profile_View
+41b8cf7 - Balaji Ummadisetty, 7 weeks ago : Merge branch 'main' into Mentor_Profile_View
+7fc5a61 - Balaji Ummadisetty, 7 weeks ago : Merge pull request #21 from balaji-ummadisetty/mentorprofile
+8a240d5 - Balaji Ummadisetty, 7 weeks ago : Merge branch 'main' into mentorprofile
+9cf5501 - Balaji Ummadisetty, 7 weeks ago : Merge pull request #23 from balaji-ummadisetty/DashBoardBalaji
+c90ae17 - balaji-ummadisetty, 7 weeks ago : Added Req functionlity
+31e8cdc - prasad, 7 weeks ago : initial profile mentor completed
+0a1e3b4 - hareeshmuddala, 7 weeks ago : added search and domain search functionality and also ui for search by company and skill
+ca4f3cf - Balaji Ummadisetty, 8 weeks ago : Merge pull request #20 from balaji-ummadisetty/DashBoardBalaji
+0ee5ef7 - balaji-ummadisetty, 8 weeks ago : small Changes
+440441f - Balaji Ummadisetty, 8 weeks ago : Merge pull request #19 from balaji-ummadisetty/BalajiDashboard
+7233662 - balaji-ummadisetty, 8 weeks ago : Deleted MUI Lib
+5cd21c5 - Balaji Ummadisetty, 8 weeks ago : Merge pull request #18 from balaji-ummadisetty/dashboard_pricing
+fa27208 - Balaji Ummadisetty, 8 weeks ago : Merge branch 'main' into dashboard_pricing
+7a638ed - Balaji Ummadisetty, 8 weeks ago : Merge pull request #17 from balaji-ummadisetty/scheduletimimngs
+d1be8fe - Balaji Ummadisetty, 8 weeks ago : Merge branch 'main' into scheduletimimngs
+221b0b3 - Balaji Ummadisetty, 8 weeks ago : Merge pull request #16 from balaji-ummadisetty/BalajiV6
+6f6d04c - Balaji Ummadisetty, 8 weeks ago : Merge branch 'main' into scheduletimimngs
+02e2d4a - prasad, 8 weeks ago : pricing initial stage completed
+8135a24 - hareeshmuddala, 8 weeks ago : schedule timings added
+c0ea8ef - balaji-ummadisetty, 8 weeks ago : Add necessary api and functioanlities
+d8c9156 - Balaji Ummadisetty, 8 weeks ago : Merge pull request #15 from balaji-ummadisetty/BalajiV6
+f7eb7ee - balaji-ummadisetty, 8 weeks ago : Chnages Made
+d1ab0b6 - balaji-ummadisetty, 8 weeks ago : Styled Form and ChangePassword
+c3ff12b - balaji-ummadisetty, 8 weeks ago : Integrate Profile Setting Page
+06535f8 - Balaji Ummadisetty, 8 weeks ago : Merge pull request #14 from balaji-ummadisetty/profile_form_prasad_v2
+091cddd - prasad, 8 weeks ago : career journey json fix
+1afdbae - Balaji Ummadisetty, 8 weeks ago : Merge pull request #13 from balaji-ummadisetty/balajiV5
+ed0c8fc - balaji-ummadisetty, 8 weeks ago : Changed some styling in Sidebar
+625d039 - Balaji Ummadisetty, 8 weeks ago : Merge pull request #12 from balaji-ummadisetty/profile_form_prasad_v1
+a471a84 - Balaji Ummadisetty, 8 weeks ago : Merge pull request #11 from balaji-ummadisetty/balajiV4
+e177a29 - prasad, 8 weeks ago : profile_form_updated_with_changes
+16921f4 - balaji-ummadisetty, 8 weeks ago : Added Logout functionality and avatar icon on login
+c687ea9 - Balaji Ummadisetty, 8 weeks ago : Merge pull request #10 from balaji-ummadisetty/balajiV3
+74a0c2f - balaji-ummadisetty, 8 weeks ago : Changes Some Files
+eeba7fb - Balaji Ummadisetty, 8 weeks ago : Merge pull request #6 from balaji-ummadisetty/profile_form_prasad
+da0a43c - Balaji Ummadisetty, 8 weeks ago : Merge pull request #7 from balaji-ummadisetty/BackendService
+2420b72 - Balaji Ummadisetty, 8 weeks ago : Merge pull request #8 from balaji-ummadisetty/hareesh
+3de088a - balaji-ummadisetty, 8 weeks ago : Resolved Commits
+f5b03c2 - hareeshmuddala, 8 weeks ago : dashboardand routes for dashboard elements were added
+95c58aa - balaji-ummadisetty, 8 weeks ago : Added Backend Global Service
+d1a863b - prasad, 8 weeks ago : Initial stage of form
+b1636da - Prasad-324, 9 weeks ago : Merge pull request #5 from balaji-ummadisetty/balajiV2
+fef839b - balaji-ummadisetty, 9 weeks ago : Modified header using Antd responsive
+4175dd2 - Balaji Ummadisetty, 9 weeks ago : Merge pull request #4 from balaji-ummadisetty/balajiV2
+20fec66 - balaji-ummadisetty, 9 weeks ago : minor Changes
+8c7c53b - Balaji Ummadisetty, 9 weeks ago : Merge pull request #3 from balaji-ummadisetty/hareesh
+66ea50e - hareeshmuddala, 9 weeks ago : changed menu styles
+1849dd8 - balaji-ummadisetty, 9 weeks ago : Integrated backend to frontend
+c137ef6 - balaji-ummadisetty, 9 weeks ago : Error Rectified
+ed88cf4 - Balaji Ummadisetty, 9 weeks ago : Merge pull request #2 from balaji-ummadisetty/balajiV1
+981070f - Balaji Ummadisetty, 9 weeks ago : Merge branch 'main' into balajiV1
+be4e870 - prasad, 9 weeks ago : Login Signup OTP
+ca5ee53 - balaji-ummadisetty, 9 weeks ago : shadcn/ui setup
+ddcce06 - hareeshmuddala, 9 weeks ago : header and contact page is added
+7a15f0e - Prasad-324, 9 weeks ago : Merge pull request #1 from balaji-ummadisetty/balajiBranch
+3ea2010 - balaji-ummadisetty, 9 weeks ago : Tailwind Css Setup
+5d004c3 - Balaji Ummadisetty, 9 weeks ago : Update README.md
+57d92d2 - balaji-ummadisetty, 9 weeks ago : Initial Commit
+a5d3ad4 - balaji-ummadisetty, 9 weeks ago : first commit
+9106a8b - balaji-ummadisetty, 9 weeks ago : first commit
